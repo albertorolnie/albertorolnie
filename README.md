@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">I'm Alberto from Madrid (Fuenlabrada)<br><br>🔭 Currently looking for an internship in Madrid<br>📚 Last year in Universidad Rey Juan Carlos (Software Engineering)</p>
+<p align="left">I'm Alberto from Madrid (Fuenlabrada)<br><br>🔭 Currently looking for an internship in Madrid<br>📚 Last year in Universidad Rey Juan Carlos (Software Engineering)</p> <br>
 
 ###
 
