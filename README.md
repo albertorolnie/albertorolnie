@@ -19,7 +19,7 @@
 
 ###
 
-<h3 align="left">🛠 Main Programming Languages</h3>
+<h3 align="left">🛠 Main Programming Languages</h3> 
 
 ###
 
@@ -35,7 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
+</div> <br>
 
 ###
 
